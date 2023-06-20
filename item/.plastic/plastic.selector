@@ -1,0 +1,4 @@
+repository "VR_Test03@vrtest_l@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
